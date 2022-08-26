@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @k1rgam9r
+- 👀 I'm from Kazakhstan
 - 👀 I’m interested in web programing
 - 🌱 I’m currently learning HTML,CSS,JS
-- 💞️ I’m looking to collaborate on hmmmm
+- 💞️ I’m looking to collaborate on i now know(
 - 📫 How to reach me i get discord elected^-^
 
 <!---
