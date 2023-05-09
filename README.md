@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @k1rgam9r
-- 👀 I'm from Kazakhstan
-- 👀 I’m interested in web programing
-- 🌱 I’m currently learning HTML, CSS, JS
-
-<!---
-k1rgam9r/k1rgam9r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Hi there, I'm</h1><h1 style:"color: slateblue;">Kir</h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
