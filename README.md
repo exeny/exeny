@@ -2,8 +2,10 @@
 <div id="badges">
   <a href="https://discordapp.com/users/761964526463221800/" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Telegram-8A2BE2?style=for-the-badge&logo=telegram&logoColor=white&labelColor=8A2BE3&color=8A2BE2&link=https%3A%2F%2Ft.me%2Fsaxeni">
   </a>
+  <a href="https://t.me/saxeni">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Telegram-8A2BE2?style=for-the-badge&logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2Fsaxeni">
+  <a>
 </div>
 
   
