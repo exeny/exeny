@@ -3,7 +3,7 @@
   <a href="https://discordapp.com/users/761964526463221800/" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
   </a>
-  <a href="https://t.me/saxeni">
+  <a href="https://t.me/e_xeny">
     <img alt="Static Badge" src="https://img.shields.io/badge/Telegram-8A2BE2?style=for-the-badge&logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2Fsaxeni">
   <a>
 </div>
