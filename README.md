@@ -1,11 +1,9 @@
-<h1 align="center">Hi there
+<h1 align="center">Hi there, I'm <a href="https://t.me/e_xeny" target="_blank">Kir</a> 
 <div id="badges">
-  <a href="https://discordapp.com/users/761964526463221800/" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
-  </a>
-  <a href="https://t.me/e_xeny">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Telegram-8A2BE2?style=for-the-badge&logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2Fsaxeni">
+    <a href="https://t.me/e_xeny">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Telegram-000000.svg?style=for-the-badge&logo=telegram&logoColor=white" style="width: 120px">
   <a>
 </div>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exeny&layout=donut&theme=dark&border_color=151515"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=exeny&show_icons=true&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exeny&layout=donut&theme=dark&border_color=151515" style="width: 320px;"></p>
   
