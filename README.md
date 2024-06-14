@@ -7,9 +7,5 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/Telegram-8A2BE2?style=for-the-badge&logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2Fsaxeni">
   <a>
 </div>
-
-  
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=exeny&theme=dark&hide_border=true&card_width=500">
-<h3 align="center">:fire: My stats :<h3>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exeny&layout=donut&theme=dark&border_color=151515"></p>
   
