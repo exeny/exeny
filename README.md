@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://discordapp.com/users/761964526463221800/" target="_blank">Kir</a> 
+<h1 align="center">Hi there
 <div id="badges">
   <a href="https://discordapp.com/users/761964526463221800/" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
