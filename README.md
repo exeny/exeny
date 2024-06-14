@@ -1,7 +1,9 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="https://github.com/exeny/exeny/blob/main/assets/exeny-poster.png?raw=true"  />
+  <a href="https://t.me/e_xeny" target="_blank">
+    <img height="300" width="600" src="https://github.com/exeny/exeny/blob/main/assets/exeny-poster.png?raw=true"  />
+  </a>
 </div>
 
 ###
