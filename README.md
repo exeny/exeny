@@ -17,17 +17,15 @@
 
 ###
 
-<h3 align="left" style="font-size: 100px;"> >🧑‍💻  About Me </h3>
-
-<h4 align="left">I'm an aspiring front-end developer from Almaty.
-  <br/></h4>
-  <p>I am interested in web development. My programming journey started in late 2022 with HTML, CSS, JS. Later (with a small break) I mastered jQuery. At the moment I am learning React, React Native</p> 
+<h3 align="center">Beginner frontend developer from Almaty.
+  <br/></h3>
+  <p align="center">I am interested in web development. My programming journey started in late 2022 with HTML, CSS, JS. Later (with a small break) I mastered jQuery. At the moment I am learning React, React Native</p> 
 
 ###
 
 
 ###
-<details align="left">
+<details align="center">
   <summary><h2><b>🛠 My stack</b></h2></summary>
   <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -43,7 +41,7 @@
   </p>
 </details>
 
-<details align="left">
+<details align="center">
   <summary><h2><b>🔥 My stats</b></h2></summary>
   <p>
 <div align="center">
