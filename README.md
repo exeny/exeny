@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">I'm an aspiring frontend developer. My journey started at the end of 2022 with HTML, CSS, JS. Later (with a small break) I mastered jQuery. At the moment I am learning React, React Native </p>
+<p align="left">I'm an aspiring front-end developer. My journey started at the end of 2022 with HTML, CSS, JS. Later (with a small break) I mastered jQuery. At the moment I am learning React, React Native </p>
 
 ###
 
