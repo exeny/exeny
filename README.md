@@ -8,7 +8,6 @@
 
 <h1 align="center">Hi there, I'm Kir</h1>
 
-###
 
 <div align="center">
   <a href="https://t.me/e_xeny" target="_blank">
@@ -18,13 +17,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me </h3>
+<h3 align="left" style="font-size: 100px;"> >🧑‍💻  About Me </h3>
 
-###
-
-<p align="left">I'm an aspiring front-end developer from Almaty. 
-  <br/><br/>
-  I am interested in web development. My programming journey started in late 2022 with HTML, CSS, JS. Later (with a small break) I mastered jQuery. At the moment I am learning React, React Native </p>
+<h4 align="left">I'm an aspiring front-end developer from Almaty.
+  <br/></h4>
+  <p>I am interested in web development. My programming journey started in late 2022 with HTML, CSS, JS. Later (with a small break) I mastered jQuery. At the moment I am learning React, React Native</p> 
 
 ###
 
