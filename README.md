@@ -19,9 +19,8 @@
 
 ###
 
-<h3 align="center">Beginner frontend developer from Almaty.
-  <br/></h3>
-  <p align="center">I am interested in web development. My programming journey started in late 2022 with HTML, CSS, JS. Later (with a small break) I mastered jQuery. At the moment I am learning React, React Native</p> 
+<h3 align="center">Beginner front-end developer from Almaty.
+  <br/></h3>I am interested in web development. My programming journey started in mid 2022 with Python. In late 2022 and early 2023, I mastered HTML, CSS, and JS. Later (with a short break) I mastered jQuery. At the moment I am learning React, React Native</p> 
 
 ###
 
@@ -39,6 +38,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="react logo"  />
     <br>
   </p>
 </details>
